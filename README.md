@@ -1,9 +1,9 @@
 # Hello, my name is Rodrigo, and welcome to my GitHub 😊
 
 <div align="">
-  <a href="https://github.com/brennosullivan">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=brennosullivan&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennosullivan&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/rodrigocollaco">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=rodrigocollaco&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocollaco&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
